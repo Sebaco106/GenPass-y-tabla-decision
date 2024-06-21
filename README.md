@@ -36,7 +36,11 @@ El proyecto consiste en dos funciones principales:
 ## Comandos que vimos para el tema de los testeo en el test_contrase.py
 
 - COVERAGE RUN TEST_CONTRASE.PY:tw-270f:
-###Para los reportes este comando.
+  
+##Para los reportes este comando.
+
 - COVERAGE REPORT -M:tw-270f:
-###Para visualizarlo en html.
+  
+##Para visualizarlo en html.
+
 - COVERAGE HTML:tw-270f:
