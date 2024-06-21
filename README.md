@@ -1,14 +1,16 @@
 ### Creador de contraseñas y Caso de Tabla de Decisión
 
-- Interaccion con el usuario de contraseñas, con los parametros de :tw-2714:
-1.la contraseña debe estar entre 8 y 10 caracteres.
-2.Tiene que tener 2 letras.
-3.tiene que tener una letra en mayuscula.
-4.tiene que tener un letra en minuscula.
-5.tiene que tener 1 caracter de numero.
-6.tiene que tener 1 caracter especial.
+- Interaccion con el usuario de contraseñas, con los parametros de:
 
--Con casos de uso, que se testeo con el comando de cobertura de coverage.:tw-2714:
+1. la contraseña debe estar entre 8 y 10 caracteres.
+2. Tiene que tener 2 letras.
+3. tiene que tener una letra en mayuscula.
+4. tiene que tener un letra en minuscula.
+5. tiene que tener 1 caracter de numero.
+6. tiene que tener 1 caracter especial.
+
+-Con casos de uso para el testeo de.
+
 1. si supero el limite de 10 caracteres.
 2. si es menor de 8 caracteres.
 3. si esta entre 8 y 10 caracteres.
